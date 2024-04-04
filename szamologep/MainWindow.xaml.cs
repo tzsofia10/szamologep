@@ -16,7 +16,8 @@ namespace szamologep
     /// </summary>
     public partial class MainWindow : Window
     {
-
+        static int[] szamok = new int[10];
+        static string[] muveletijelek = new string[9];
         static bool feladat = false;
         static string ertek;
         static int vegertek = 0;

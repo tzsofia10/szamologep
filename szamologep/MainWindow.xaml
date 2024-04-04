@@ -49,7 +49,7 @@ HorizontalAlignment="Center" Margin="0,2,0,0" Grid.Column="4" Width="106" Vertic
         <Button
 HorizontalAlignment="Center" Margin="0,70,0,0" Grid.Column="4" Width="106" VerticalAlignment="Top" Grid.Row="2" x:Name="btnkivonas" Height="63" FontSize="20" Content="-" Click="btnkivonas_Click"/>
         <Label
-Grid.ColumnSpan="4" Width="406" VerticalAlignment="Top" Grid.Row="1" x:Name="lblkiiras" Margin="10,5,0,0" Height="265" HorizontalAlignment="Left" Content="" Grid.Column="1"/>
+Grid.ColumnSpan="4" Width="406" VerticalAlignment="Top" Grid.Row="1" x:Name="lblkiiras" Margin="10,5,0,0" Height="265" HorizontalAlignment="Left" Content="" Grid.Column="1" FontSize="50"/>
         <Button
 Width="106" VerticalAlignment="Top" Grid.Row="2" x:Name="btn0" Margin="0,206,0,0" Height="63" HorizontalAlignment="Center" FontSize="20" Content="0" Grid.Column="1" Click="btn0_Click"/>
     </Grid>
